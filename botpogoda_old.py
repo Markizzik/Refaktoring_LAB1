@@ -1,7 +1,6 @@
 import requests
 from telebot import *
-token='8139819279:AAGbDbUaN8xwuWRe2qKLnfw-sPQ9a_1FoG0'
-# token='6569790433:AAHf4EqiHhASTokEn1YTDKwKaLb3LYakM84'
+token=''
 city = "Moscow,RU"
 lat = "37.674874"
 lon = "55.636135"
