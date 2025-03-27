@@ -2,7 +2,7 @@ import requests
 import telebot
 from telebot import types
 
-TOKEN = '8139819279:AAGbDbUaN8xwuWRe2qKLnfw-sPQ9a_1FoG0'
+TOKEN = ''
 APPID = '3c211ea758fa910484bf5ccc4d69b593'
 bot = telebot.TeleBot(TOKEN)
 
